@@ -1,0 +1,12 @@
+Bienvenido a Permission Granter para apps de Zachary Wander
+Por Veibi
+Iniciando ADB
+Éxito!
+Ha fallado... Reiniciando
+Ahora conecta tu dispositivo y asegúrate de que la Depuración por USB está activada, presione cualquier tecla para continuar
+Éxito!
+Error al asegurarse de que la Depuración USB está habilitada y usted tiene una buena conexión, presione cualquier tecla para intentar nuevamente
+Presione cualquier tecla para habilitar los permisos
+Hecho!
+Presione cualquier tecla para salir
+Apagando ADB

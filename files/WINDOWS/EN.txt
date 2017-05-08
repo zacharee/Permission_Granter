@@ -1,0 +1,12 @@
+Welcome to Permission Granter for apps by Zachary Wander
+By Veibi
+Starting ADB
+Success!
+Failed... Restarting
+Now plug in your device and make sure usb Debugging is Enabled, Press any key to continue
+Success!
+Failed make sure usb debugging is enabled and you have a good connection, Press any key to try again
+Press any key to enable permissions
+Done!
+Press any key to Exit
+Shutting down ADB
