@@ -1,7 +1,8 @@
 @echo off
 echo Welcome to Permission Granter for Unrooted Devices
 echo For apps by Zachary Wander
-echo V 0.0.1
+echo By Veibi
+echo V 0.0.0.3
 timeout /t 1 >nul 2>&1
 echo Starting adb server
 adb start-server

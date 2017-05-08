@@ -1,0 +1,10 @@
+	Device will not show up-
+1. make sure adb is enabled and your phone is plugged into your pc
+2. try a new usb cable or a new port on your pc
+
+	I cant find usb debugging-
+1. Go into your settings on your phone and go to about device, 
+once there find your build number and click it untill it says 
+developer settings have been enabled. Once that is done go 
+back to the main settings page and developer settings should 
+be shown and you can go into them and enable usb debugging
